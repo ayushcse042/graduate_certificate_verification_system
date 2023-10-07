@@ -1,0 +1,11 @@
+{
+    "name": "https://github.com/deo002/Certify",
+    "description": "Certificate generation and verification",
+    "repository": "https://github.com/deo002/Certify",
+    "keywords": [
+        "node",
+        "express",
+        "react",
+        "ethereum"
+    ]
+}
